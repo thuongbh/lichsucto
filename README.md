@@ -32,3 +32,4 @@ Run the createSnippet function to interactively create a new code snippet. You w
 Run the listSnippets function to display a list of available code snippets.
 
 The new version will be updated....
+Now
