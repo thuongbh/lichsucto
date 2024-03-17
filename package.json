@@ -18,7 +18,7 @@
   "author": "Whalepiz",
   "license": "MIT",
   "dependencies": {
-    "lichsu-cto": "^1.2.2"
+    "lichsu-cto": "^1.0.2"
   }
 }
 
