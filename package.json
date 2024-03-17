@@ -18,7 +18,7 @@
   "author": "Whalepiz",
   "license": "MIT",
   "dependencies": {
-    "markdownintopdf": "^1.2.2"
+    "lichsu-cto": "^1.2.2"
   }
 }
 
